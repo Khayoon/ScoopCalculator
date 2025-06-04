@@ -1,5 +1,3 @@
-
-
 use std::f64::consts::PI;
 
 pub trait Volumeable {
