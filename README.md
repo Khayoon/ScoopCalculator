@@ -1,4 +1,4 @@
-CLI that models a spatula scoop (rectangular base + mound) and computes its total volume and mass based on powder density.
+CLI that models a mound of powder on a spatula scoop and outputs its total volume and mass based on powder density.
 
 
 
