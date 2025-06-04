@@ -1,0 +1,2 @@
+# ScoopCalculator
+Scoop Measure 
