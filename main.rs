@@ -1,5 +1,3 @@
-//! compute the volume (and mass) of a powder scoop (base + mound).
-
 use clap::{ArgEnum, Parser};
 use shapes::{Cone, HalfEllipsoid, RectangularPrism, Volumeable};
 use scoop::Scoop;
