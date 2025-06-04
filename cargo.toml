@@ -1,0 +1,6 @@
+scoop_calculator/
+├── Cargo.toml
+└── src
+    ├── main.rs
+    ├── shapes.rs
+    └── scoop.rs
